@@ -2,7 +2,7 @@ import serial
 import time
 
 # --- Game Configuration ---
-SERIAL_PORT = 'COM3'  # *** IMPORTANT: Change this to your Arduino's serial port ***
+SERIAL_PORT = 'COM6'  # *** IMPORTANT: Change this to your Arduino's serial port ***
                       # On Linux/macOS, it might be '/dev/ttyACM0' or '/dev/ttyUSB0'
 BAUD_RATE = 9600
 
